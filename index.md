@@ -7,5 +7,6 @@
 ### Please press on the links to redirect to the lab solutions 
 
 ## [LAB-1 TOCTOU resilient program and XSS](Lab1.md)
+## [LAB-3 SQL Injection and SUID Exploitation from PWN College](Lab2.md)
 ## [LAB-3 Intercepting Communciation from PWN College](Lab3.md)
 ## [LAB-4 Cryptopals](Lab4.md)
