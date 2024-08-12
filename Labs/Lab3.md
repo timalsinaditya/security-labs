@@ -1,6 +1,6 @@
 # LAB-3 Intercepting Communciation from PWN College
 
-## [Press here to return to HOME](index.md)
+## [Press here to return to HOME](../index.md)
 
 ## Intrecepting Communications
 

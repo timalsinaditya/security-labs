@@ -1,6 +1,6 @@
 # LAB-2 SQL Injection and SUID Exploitation from PWN College
 
-## [Press here to return to HOME](index.md)
+## [Press here to return to HOME](../index.md)
 
 ## SQL Injection
 

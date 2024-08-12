@@ -1,6 +1,6 @@
 # LAB-4 Cryptopals Set 1
 
-## [Press here to return to HOME](index.md)
+## [Press here to return to HOME](../index.md)
 
 ## Cryptopals Set 1 
 
