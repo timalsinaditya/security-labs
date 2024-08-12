@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "question3", "question4", "question5", "question6",
+]
+
+resolver = "2"

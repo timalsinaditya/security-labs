@@ -8,3 +8,4 @@
 
 ## [LAB-1 TOCTOU resilient program and XSS](Lab1.md)
 ## [LAB-3 Intercepting Communciation from PWN College](Lab3.md)
+## [LAB-4 Cryptopals](Lab4.md)
